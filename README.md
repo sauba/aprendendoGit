@@ -1,3 +1,3 @@
 # aprendendoGit
-![./mero.png] (Sauba naufrágio Gonçalo Coelho) 
+!["./mero.png"] 
 ESTE ARQUIVO TEM COMO OBJETIVO DETALHAR O QUE ESTOU APRENDENDO NO CURSO DE GIT
